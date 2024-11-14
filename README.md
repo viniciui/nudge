@@ -5,3 +5,6 @@
 
 *Summary of Results:* The review finds that nudges such as reminders, defaults, and social norms are effective in promoting security-conscious behaviors. Visual and contextual nudges significantly enhance user awareness and adaptation of secure settings.
 
+[RSL_NUDGES.pdf](https://github.com/user-attachments/files/17740711/RSL_NUDGES.pdf)
+
+
